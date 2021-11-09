@@ -18,3 +18,4 @@
 4. [Same Target Layout](https://github.com/Arnauete02/same_target_layout_arnau)
 5. [Flip and Swap](https://github.com/Arnauete02/flip_and_swap_arnau)
 6. [Animation](https://github.com/Arnauete02/animation_arnau)
+7. [Splash Screen](https://github.com/Arnauete02/splash_screen_arnau)
