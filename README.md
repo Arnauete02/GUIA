@@ -2,7 +2,7 @@
 
 ## M03 - *Programació*
 
-1. [Estructures dinàmiques d'emmagatzematge](https://github.com/Arnauete02/exercices_estructures_dinamiques_arnau)
+1. [Estructures dinàmiques d'emmagatzematge](https://github.com/Arnauete02/exercices_estructures_dinamiques_arnau-)
 
 ## M06 - *Accés a Dades*
 
