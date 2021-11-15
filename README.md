@@ -9,6 +9,7 @@
 1. [First Exercices](https://github.com/Arnauete02/first_exercices_arnau)
 2. [JSON Exercices](https://github.com/Arnauete02/exercices_json)
 3. [demo](https://github.com/Arnauete02/demo)
+4. [animes-arnau](https://github.com/Arnauete02/animes-arnau.git)
 
 ## M08 - *Programació multimedia i dispositius mòbils*
 
