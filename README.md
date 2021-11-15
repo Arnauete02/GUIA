@@ -20,3 +20,4 @@
 5. [Flip and Swap](https://github.com/Arnauete02/flip_and_swap_arnau)
 6. [Animation](https://github.com/Arnauete02/animation_arnau)
 7. [Splash Screen](https://github.com/Arnauete02/splash_screen_arnau)
+8. [Body Mass](https://github.com/Arnauete02/body_mass_arnau)
