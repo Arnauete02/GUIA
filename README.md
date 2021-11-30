@@ -4,12 +4,17 @@
 
 1. [Estructures dinàmiques d'emmagatzematge](https://github.com/Arnauete02/exercices_estructures_dinamiques_arnau-)
 
+## M05 - *Entorns de desenvolupament*
+
+1. [JUnit](https://github.com/Arnauete02/JUnit)
+
 ## M06 - *Accés a Dades*
 
 1. [First Exercices](https://github.com/Arnauete02/first_exercices_arnau)
 2. [JSON Exercices](https://github.com/Arnauete02/exercices_json)
 3. [demo](https://github.com/Arnauete02/demo)
-4. [animes-arnau](https://github.com/Arnauete02/animes-arnau.git)
+4. [solucions_uf1](https://github.com/Arnauete02/solucions_m06_uf1)
+5. [animes-arnau](https://github.com/Arnauete02/animes-arnau.git)
 
 ## M08 - *Programació multimedia i dispositius mòbils*
 
