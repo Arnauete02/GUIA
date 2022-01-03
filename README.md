@@ -26,6 +26,9 @@
 6. [Animation](https://github.com/Arnauete02/animation_arnau)
 7. [Splash Screen](https://github.com/Arnauete02/splash_screen_arnau)
 8. [Body Mass](https://github.com/Arnauete02/body_mass_arnau)
+9. [Body Mass Kotlin](https://github.com/Arnauete02/body_mass_kotlin_arnau)
+10. [List View](https://github.com/Arnauete02/list_view_arnau)
+11. [Recycler View](https://github.com/Arnauete02/recycler_view_arnau)
 
 ## EXAMENS
 
