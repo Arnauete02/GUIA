@@ -30,6 +30,10 @@
 10. [List View](https://github.com/Arnauete02/list_view_arnau)
 11. [Recycler View](https://github.com/Arnauete02/recycler_view_arnau)
 
+## M10 - *Sistemes de gestió empresarial*
+
+1. [Python](https://github.com/Arnauete02/python)
+
 ## EXAMENS
 
 [Repositori d'Exàmens](https://github.com/Arnauete02/examens)
