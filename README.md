@@ -30,6 +30,8 @@
 10. [List View](https://github.com/Arnauete02/list_view_arnau)
 11. [Recycler View](https://github.com/Arnauete02/recycler_view_arnau)
 12. [Menu Navigation Drawer](https://github.com/Arnauete02/menu_navigation_drawer_arnau.git)
+13. [Menu Floating Context](https://github.com/Arnauete02/menu_floating_context_arnau.git)
+14. [Bottom Navigation](https://github.com/Arnauete02/bottom_navigation_arnau.git)
 
 ## M10 - *Sistemes de gestió empresarial*
 
