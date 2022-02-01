@@ -59,6 +59,8 @@
 
 ### UF2 - Processos i fils
 
+1. [Threads implements runnable](https://github.com/Arnauete02/threads_implements_runnable_arnau)
+
 ### UF3 - Sòcols i serveis
 
 ## M10 - *Sistemes de gestió empresarial*
