@@ -66,3 +66,4 @@
 ## M10 - *Sistemes de gestió empresarial*
 
 1. [Python](https://github.com/Arnauete02/python)
+2. [Llibreta Python](https://github.com/Arnauete02/llibreta_python_ArnauGr-cia)
