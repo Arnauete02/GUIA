@@ -53,8 +53,12 @@
 
 ### UF2 - Programació multimèdia
 
-1. [JSON Soccer](https://github.com/Arnauete02/json_soccer_arnau)
-2. [Animes App](https://github.com/Arnauete02/animes_app_arnau)
+1. [Animació GIF]()
+2. [Images](https://github.com/Arnauete02/images-arnau)
+3. [JSON Soccer](https://github.com/Arnauete02/json_soccer_arnau)
+4. [API NewYourk Times]()
+5. [Animes App](https://github.com/Arnauete02/animes_app_arnau)
+6. [Exàmen Final UF2](https://github.com/Arnauete02/marvel_arnau)
 
 ### UF3 - Motors de jocs
 
